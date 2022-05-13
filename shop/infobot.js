@@ -27,8 +27,8 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api.zeeoneofc.xyz
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeone-ofc.github.io
+♈ YouTube : -
+♉ Github : github.com/Dityaastawa
 `}
 
 exports.infobot = infobot
